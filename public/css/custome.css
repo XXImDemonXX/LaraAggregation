@@ -1,0 +1,16 @@
+.header
+{
+    width: 70%;
+}
+.footer
+{
+    width: 70%;
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+}
+.content
+{
+    margin: auto;
+    width: 70%;
+}
